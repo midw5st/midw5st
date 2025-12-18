@@ -1,16 +1,27 @@
-## Hi there 👋
+## hootbugga
 
-<!--
-**hootbugga/hootbugga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer focused on building reliable and maintainable projects for online platforms and gaming communities.
 
-Here are some ideas to get you started:
+My primary work includes developing scripts for the FiveM platform and creating bots and automation tools for Discord. I prioritize clear structure, performance, and long-term maintainability in my code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Areas of Focus
+
+* FiveM script and resource development
+* Discord bots and platform automation
+* Backend utilities and supporting tools
+
+---
+
+## Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,rust,cs,ts,js" />
+</p>
+
+---
+
+## Contact
+
+Discord: hootbugga
